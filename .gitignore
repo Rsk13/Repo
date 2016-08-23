@@ -1,1 +1,3 @@
-*.txt
+/Log/*.log
+
+abc.txt
